@@ -12,3 +12,4 @@ C:\Users\user_acronus\source\repos\App1\App1\obj\Debug\net8.0\refint\App1.dll
 C:\Users\user_acronus\source\repos\App1\App1\obj\Debug\net8.0\App1.pdb
 C:\Users\user_acronus\source\repos\App1\App1\obj\Debug\net8.0\App1.genruntimeconfig.cache
 C:\Users\user_acronus\source\repos\App1\App1\obj\Debug\net8.0\ref\App1.dll
+C:\Users\user_acronus\source\repos\App1\App1\obj\Debug\net8.0\App1.sourcelink.json
